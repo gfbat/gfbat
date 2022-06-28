@@ -13,7 +13,7 @@
 <ul>
     <li> Based in Sao Paulo, Brazil.</li>
     <li> Currently working with JavaScript and Node.js.</li>
-    <li> Learning about JavaScript/TypeScript, AWS and Software Engineering.</li>
+    <li> Learning about JavaScript/TypeScript, DevOps and Software Engineering.</li>
 </ul>
 <h2>Languages and tools</h2>
 <p align="left">
